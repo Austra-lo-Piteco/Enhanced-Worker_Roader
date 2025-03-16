@@ -7,7 +7,9 @@
 			"Moves to new capital when capital changes",
 			"[-100]% construction time for [All] improvements",
 			"All newly-trained [Worker] units [in all cities] receive the [Industriousness] promotion",
+			"All newly-trained [Road Worker] units [in all cities] receive the [Infraestructure] promotion",
 			"[+1000]% Production when constructing [Worker] units [in all cities]",
+			"[+1000]% Production when constructing [Road Worker] units [in all cities]",
 			"Destroyed when the city is captured",
 			"Only available <for [Human player] Civilizations><hidden from users>"]
 	}
