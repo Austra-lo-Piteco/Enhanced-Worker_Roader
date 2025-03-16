@@ -10,6 +10,9 @@
       			"Can instantly construct a [non-[Great]] improvement",
 			"Can move immediately once bought"
     ]
+  }
+[
+	{
 		  "name": "Infraestructure",
 		  "uniques": [
 			  "Ignores terrain cost",
