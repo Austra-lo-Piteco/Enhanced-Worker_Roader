@@ -12,3 +12,18 @@
     ]
 	}
 ]
+[
+	{
+		  "name": "Infrastructure",
+		  "uniques": [
+			  "Ignores terrain cost",
+				   "[+1] Sight",
+				   "[+5] Movement",
+			  "[1] Movement point cost to embark",
+			  "[1] Movement point cost to disembark",
+					"Can instantly construct a [Road] improvement",
+					"Can instantly construct a [Railroad] improvement",
+			  "Can move immediately once bought"
+	  ]
+	  }
+  ]
